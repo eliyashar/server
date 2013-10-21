@@ -1,0 +1,26 @@
+c:\users\itaya\documents\visual studio 2010\Projects\AMCV1\AMCV1\bin\Debug\AMCV1.exe
+c:\users\itaya\documents\visual studio 2010\Projects\AMCV1\AMCV1\bin\Debug\AMCV1.pdb
+c:\users\itaya\documents\visual studio 2010\Projects\AMCV1\AMCV1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itaya\documents\visual studio 2010\Projects\AMCV1\AMCV1\obj\x86\Debug\AMCV1.Properties.Resources.resources
+c:\users\itaya\documents\visual studio 2010\Projects\AMCV1\AMCV1\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\itaya\documents\visual studio 2010\Projects\AMCV1\AMCV1\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\itaya\documents\visual studio 2010\Projects\AMCV1\AMCV1\obj\x86\Debug\AMCV1.exe
+c:\users\itaya\documents\visual studio 2010\Projects\AMCV1\AMCV1\obj\x86\Debug\AMCV1.pdb
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.exe
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.pdb
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\bin\Debug\AMCV1.exe
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\bin\Debug\AMCV1.pdb
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.ControlForm.resources
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.Properties.Resources.resources
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.Client.resources
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.Server.resources
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\bin\Debug\Interop.AXVLC.dll
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.csproj.ResolveComReference.cache
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.VlcPlayer.resources
+C:\Users\itaya\Dropbox\shared\AMCV1\AMCV1\obj\x86\Debug\AMCV1.VlcUserControl.resources
